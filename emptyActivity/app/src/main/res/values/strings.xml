@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">emptyActivity</string>
+    <string name="welcome_to_android">Welcome to Android</string>
+    <string name="sign_in">Sign in to continue</string>
+    <string name="user_name">USERNAME</string>
+    <string name="hint_username">Enter your Username</string>
+    <string name="pass">PASSWORD</string>
+    <string name="hint_pass">Enter your Password</string>
+    <string name="button">SIGN IN</string>
+    <string name="signup_ask">SIGN UP FOR AN ACCOUNT?</string>
+    <string name="login">Login</string>
+    <string name="des">and you can discover best news around the world</string>
+    <string name="b2_hintemail">Email</string>
+    <string name="b2_hintpass">Password (optional)</string>
+    <string name="b2_checkbox">Remember me</string>
+    <string name="b2_btn">LOGIN</string>
+    <string name="mission">
+        <br>
+            To continually develop our professional retail system in order to deliver
+            outstanding service quality and the highest level of satisfaction to our
+            customers.To affirm our position as thepremier industrial insurer in Vietnam
+            while maintaining its leading shares in Energy Insurance, Aviation Insurance,
+            Property Insurance, Marine Insurance and Technical Insurance. To become a
+            solid partner of domestic and international groups \n
+        </br>
+        <br>\n</br>
+        <br>
+            To best possible working environment so that they may develop their full
+            potential so as to contribute to the development of the industry as well
+            as that of the Country.\n
+        </br>
+    </string>
+    <string name="add">
+        ​Ho Chi Minh University of Science.
+    </string>
+</resources>
